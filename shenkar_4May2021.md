@@ -53,10 +53,10 @@ Examples of student work
 	- Soojin [project](https://github.com/Soojin-Lee0819/IntrotoIM/tree/main/Final%20Project) and
 		[video](https://www.youtube.com/watch?v=8zPUVFaiePk)
 	- Ariya
-		[project](https://github.com/ariyachlt/Intro_IM/tree/main/finalProject]
+		[project](https://github.com/ariyachlt/Intro_IM/tree/main/finalProject)
 		and [video](https://www.youtube.com/watch?v=joQTGIlkB88)
 	- Ayush
-		[https://github.com/discoverayushnp/nyuad-intro-to-im/tree/master/finalProject]
+		[project](https://github.com/discoverayushnp/nyuad-intro-to-im/tree/master/finalProject)
 		and [video](https://www.youtube.com/watch?v=yVUETZmOWG4)
 	- Rebecca
 		[project](https://github.com/rebecca1230/IntrotoIM/tree/main/finalProject)
@@ -69,8 +69,8 @@ Examples of student work
 		[project](https://github.com/ak7588/robota_psyche/tree/main/finalProject),
 		video
 	- Kyrie
-		[project](https://github.com/Kyrie21323/RobotaPsyche/tree/main/finalProject),
-		[video](https://youtu.be/6S4vNLqhVjU)
+		[project](https://github.com/Kyrie21323/RobotaPsyche/tree/main/finalProject)
+		video
 
 Introduction to Arduino
 - What is a microcontroller?
