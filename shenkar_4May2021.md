@@ -1,22 +1,37 @@
 About me
-- Grew up in Jerusalem
+- Grew up in Jerusalem (Beit Hakerem)
 - USA for college
-- EECS
-- SRL
-- Teaching
-- Tinkering and Making
-About NYUAD
-- Moved here in fall 2017
+- Studied electrical engineering and computer science
+- Worked at traditional computer companies but wanted to build weird, creative
+	things with the parts I was using
+- Discovered [SRL](https://www.srl.org)
+- Started teaching artists how to work with electronics, and changed careers
+	to teaching art and technology
+- Became very involved in creative tinkering and making such as Burning Man
+	projects (although I never went), Maker Faire, 
+	[Dorkbot](http://dorkbotsf.org/) ("People doing strange things with
+	electricity")
+- Moved to NYUAD in fall 2017
+About [New York University Abu
+Dhabi](https://www.nyu.edu/abu-dhabi/about-us1.html)
 - Young university (opened in 2010)
-- studets, countries
-- campus
+- About 2000 students from some 120 countries
+- Very small classes
+- Campus and city
+	[tour](https://nyuad.nyu.edu/en/campus-life/living-in-abu-dhabi/campus-and-city-tour.html)
 About UAE
+- Young country (1971)
 - [Map](https://www.google.com/maps/@26.6270912,43.1788183,6.25z)
 - [Emirates](https://en.wikipedia.org/wiki/File:UAE_en-map.png)
 About Abu Dhabi
 - Both the name of the emirate and of the main city in the emirate
+- Sheikh of Abu Dhabi got the other Sheiks to collaborate and join together
 - Largest (and richest) emirate
+- Abu Dhabi is the capitol and is the political centre of the country
+- Dubai is perhaps more glamorous and is more popular with tourists, and is
+	the financial centre 
 - City is young, most buildings quite modern
+
 About [Interactive Media](https://www.nyuadim.com/) also
 [here](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/interactive-media-major.html)
 - Young program (only accredited as a major a couple of years ago)
