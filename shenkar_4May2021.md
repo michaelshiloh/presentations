@@ -12,6 +12,7 @@ About me
 	[Dorkbot](http://dorkbotsf.org/) ("People doing strange things with
 	electricity")
 - Moved to NYUAD in fall 2017
+
 About [New York University Abu
 Dhabi](https://www.nyu.edu/abu-dhabi/about-us1.html)
 - Young university (opened in 2010)
@@ -19,10 +20,12 @@ Dhabi](https://www.nyu.edu/abu-dhabi/about-us1.html)
 - Very small classes
 - Campus and city
 	[tour](https://nyuad.nyu.edu/en/campus-life/living-in-abu-dhabi/campus-and-city-tour.html)
+
 About UAE
 - Young country (1971)
 - [Map](https://www.google.com/maps/@26.6270912,43.1788183,6.25z)
 - [Emirates](https://en.wikipedia.org/wiki/File:UAE_en-map.png)
+
 About Abu Dhabi
 - Both the name of the emirate and of the main city in the emirate
 - Sheikh of Abu Dhabi got the other Sheiks to collaborate and join together
@@ -42,6 +45,7 @@ About [Interactive Media](https://www.nyuadim.com/) also
 	- Performing Robots
 	- Machine Lab
 	- [Robota Psyche](https://github.com/michaelshiloh/robotaPsyche)
+
 Examples of student work
 - Introduction to Interactive Media
 	- Nakyeong
@@ -67,6 +71,7 @@ Examples of student work
 	- Kyrie
 		[project](https://github.com/Kyrie21323/RobotaPsyche/tree/main/finalProject),
 		[video](https://youtu.be/6S4vNLqhVjU)
+
 Introduction to Arduino
 - What is a microcontroller?
 	- A small computer designed to be a controller in some system
@@ -83,4 +88,5 @@ Introduction to Arduino
 	to get started with and is extremely popular with students, hobbyists, and
 	experimentors. There are a great many books, tutorials (video and written), 
 	and example projects available
+
 Here is something I built this morning to show you
